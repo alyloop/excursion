@@ -5,7 +5,7 @@
     font-weight: normal;
 }
 
-h1 {
+.h-main {
     font-size: 50px;
     color: white;
 }
@@ -20,8 +20,9 @@ p {
     color: gray;
 }
 
-a {
+.cs-link {
     color: aquamarine;
+    font-size: 16px;
 }
 
 footer p {
